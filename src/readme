@@ -1,12 +1,12 @@
-Ödev - Vücut Kitle İndeksi Hesaplayan Program
-Vücut Kitle İndeksi Hesaplama
+Ödev - Manav Kasa Programı
+Manav Kasa Programı
 
-Java ile kullanıcıdan boy ve kilo değerlerini alıp bir değişkene atayın. Aşağıdaki formüle göre kullanıcının "Vücut Kitle İndeks" değerini hesaplayıp ekrana yazdırın.
+Java ile kullanıcıların manavdan almış oldukları ürünlerin kilogram değerlerine göre toplam tutarını ekrana yazdıran programı yazın.
 
-Formül
-Kilo (kg) / Boy(m) * Boy(m)
+Meyveler ve KG Fiyatları
 
-Çıktısı
-Lütfen boyunuzu (metre cinsinde) giriniz : 1,72
-Lütfen kilonuzu giriniz : 105
-Vücut Kitle İndeksiniz : 35.49215792320173
+Armut : 2,14 TL
+Elma : 3,67 TL
+Domates : 1,11 TL
+Muz: 0,95 TL
+Patlıcan : 5,00 TL
